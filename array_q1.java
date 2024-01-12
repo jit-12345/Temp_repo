@@ -9,6 +9,9 @@ public class array_q1 {
         }
         return false;
     }
+    public static void func(){
+        
+    }
     
     public static void main(String[] args) {
         int nums[]={1,2,3,1};
