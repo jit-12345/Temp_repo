@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 public class arraylist1 {
+   public void insertionsort(){
+      
+   }
    public static void main(String[] args) {
     //classname objectname=new classname();
     ArrayList<Integer> list=new ArrayList<>();
