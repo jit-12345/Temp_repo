@@ -7,7 +7,7 @@ public class areasquare{
         float b= a*a;
         System.out.println("The area of the square");
         System.out.println(b);
-
+         System.out.print();
 
     }
 }
